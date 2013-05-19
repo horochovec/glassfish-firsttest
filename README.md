@@ -1,7 +1,7 @@
 glassfish-firsttest
 ===================
 
-Projeto básico para utilização em servidor GlassFish 4.0
+Primeiro projeto de teste para JavaEE7 com GlassFish 4.0
 
 Ambiente
   * <a href="http://www.eclipse.org/">Eclise JUNO</a>
